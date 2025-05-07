@@ -5,5 +5,5 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"
 
 #kv_namespaces = [
-#  { binding = "VIDEO_CONFIG", id = "ea8e273b89ba4d1e90ed2b5f40853fc8"}
+#  { binding = "VIDEO_CONFIG", id = "ba691f1e571d44d5b33f694acfb25aed"}
 #]
